@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Different version of demo.txt in main branch
+=======
+GIT Collaboration
+>>>>>>> feature
