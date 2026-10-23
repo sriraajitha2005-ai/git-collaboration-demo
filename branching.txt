@@ -1,1 +1,2 @@
-Welcome to main branch
+Welcome to Git collaboration
+Modifying branching.txt file
